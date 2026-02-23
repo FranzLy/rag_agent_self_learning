@@ -66,7 +66,8 @@ xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
 
-langchain-ollama
-langchain-huggingface
-langchain-chroma
-streamlit
+humanfriendly==10.0
+langchain-ollama==1.0.1
+langchain-huggingface==1.2.0
+langchain-chroma==1.1.0
+streamlit==1.54.0
