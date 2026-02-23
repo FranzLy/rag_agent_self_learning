@@ -1,0 +1,2 @@
+chat_model_name: qwen2.5:14b
+embedding_model_name: BAAI/bge-small-zh-v1.5
